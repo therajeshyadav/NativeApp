@@ -1,0 +1,81 @@
+# ===================================
+# Real-Time Chat App - Git Ignore
+# For both /mobile and /server folders
+# ===================================
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+package-lock.json
+yarn.lock
+
+# Environment Variables (IMPORTANT!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+server/.env
+mobile/.env
+
+# Expo (Mobile App)
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# React Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Logs
+npm-debug.*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log
+logs/
+
+# OS Files
+.DS_Store
+*.pem
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Production Build
+build/
+dist/
+
+# Misc
+.cache/
+*.tgz
+.tmp/
+temp/
+
+# MongoDB (if running locally)
+data/
+*.lock
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

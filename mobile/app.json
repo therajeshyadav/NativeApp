@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "ChatApp",
+    "slug": "chatapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chatapp"
+    },
+    "android": {
+      "package": "com.chatapp"
+    },
+    "scheme": "chatapp"
+  }
+}
