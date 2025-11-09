@@ -360,9 +360,9 @@ npm install
 
 ### Watch the Demo (≤5 minutes)
 
-**[📹 Click here to watch the demo video](YOUR_VIDEO_LINK_HERE)**
+**[📹 Click here to watch the demo video](https://www.loom.com/share/9fc7f976bd084f57a3c9916e15ed0aa8)**
 
-> Replace `YOUR_VIDEO_LINK_HERE` with your actual video link after uploading
+> Demo video showing all features of the real-time chat application
 
 ### What's Covered in the Demo:
 1. ✅ User registration and login
