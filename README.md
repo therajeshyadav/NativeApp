@@ -358,11 +358,33 @@ npm install
 
 ## 🎥 Demo Video
 
-### Watch the Demo (≤5 minutes)
+### 📹 Watch the Full Demo (≤5 minutes)
 
-**[📹 Click here to watch the demo video](https://www.loom.com/share/9fc7f976bd084f57a3c9916e15ed0aa8)**
+<div align="center">
+  
+  **🎬 Demo Video (Click to Download & Watch)**
+  
+  <br>
+  
+  <a href="./demo/Demo.mp4">
+    <img src="https://img.shields.io/badge/▶️_Download_&_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
+  
+  <br><br>
+  
+  **Or Watch Online:**
+  
+  <a href="https://www.loom.com/share/9fc7f976bd084f57a3c9916e15ed0aa8">
+    <img src="https://img.shields.io/badge/▶️_Watch_on_Loom-5A67D8?style=for-the-badge&logo=loom&logoColor=white" alt="Watch on Loom">
+  </a>
+  
+</div>
 
-> Demo video showing all features of the real-time chat application
+<br>
+
+> **Demo Highlights:** User Registration & Login • Real-time Messaging • Typing Indicators • Online/Offline Status • Message Receipts • User Search • Logout Flow
+
+> 📁 **Video File:** Available in [`/demo/Demo.mp4`](./demo/Demo.mp4) folder
 
 ### What's Covered in the Demo:
 1. ✅ User registration and login
@@ -373,101 +395,8 @@ npm install
 6. ✅ User search functionality
 7. ✅ Logout functionality
 
-### How to Create Your Demo Video
-
-#### Option 1: Screen Recording (Recommended)
-
-**For Mac:**
-```bash
-# Use QuickTime Player or built-in screen recording
-# Press: Cmd + Shift + 5
-# Select area and record
 ```
 
-**For Windows:**
-```bash
-# Use Xbox Game Bar
-# Press: Win + G
-# Click record button
-```
-
-**For Linux:**
-```bash
-# Use OBS Studio or SimpleScreenRecorder
-sudo apt install simplescreenrecorder
-```
-
-#### Option 2: Use OBS Studio (All Platforms)
-1. Download [OBS Studio](https://obsproject.com/)
-2. Add display capture source
-3. Start recording
-4. Save as MP4
-
-#### Recording Tips:
-- 📱 Record both devices/simulators side by side
-- ⏱️ Keep it under 5 minutes
-- 🎤 Add voiceover explaining features (optional)
-- 🎬 Show: Register → Login → Chat → Real-time features → Logout
-- 📊 Use 1080p resolution for clarity
-
-### Where to Upload Your Video
-
-#### Option 1: YouTube (Recommended)
-1. Go to [YouTube Studio](https://studio.youtube.com)
-2. Click "Create" → "Upload videos"
-3. Upload your video
-4. Set as "Unlisted" (visible only with link)
-5. Copy the link and add to README
-
-#### Option 2: Google Drive
-1. Upload to [Google Drive](https://drive.google.com)
-2. Right-click → "Get link"
-3. Set to "Anyone with the link can view"
-4. Copy link and add to README
-
-#### Option 3: Loom
-1. Go to [Loom](https://www.loom.com)
-2. Record or upload video
-3. Copy share link
-4. Add to README
-
-#### Option 4: GitHub Release (for smaller videos)
-1. Go to your repo → Releases → Create new release
-2. Attach video file (max 2GB)
-3. Publish release
-4. Copy video URL
-
-### Update README with Video Link
-
-After uploading, replace this line in README:
-```markdown
-**[📹 Click here to watch the demo video](YOUR_VIDEO_LINK_HERE)**
-```
-
-With your actual link:
-```markdown
-**[📹 Click here to watch the demo video](https://youtu.be/your-video-id)**
-```
-
-## 📱 App Screenshots
-
-### Authentication Flow
-- Clean login/register screens with validation
-- Secure JWT-based authentication
-- Auto-redirect based on login state
-
-### Home Screen
-- User list with online/offline indicators
-- Last message preview with timestamps
-- Search functionality
-- Pull-to-refresh
-
-### Chat Screen
-- Real-time messaging
-- Typing indicators
-- Message status (sent/delivered/read)
-- Smooth scrolling with auto-scroll to bottom
-- Message timestamps
 
 ## 🛠️ Built With
 
