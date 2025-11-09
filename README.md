@@ -361,30 +361,42 @@ npm install
 ### 📹 Watch the Full Demo (≤5 minutes)
 
 <div align="center">
-  
-  **🎬 Demo Video (Click to Download & Watch)**
-  
-  <br>
-  
-  <a href="./demo/Demo.mp4">
-    <img src="https://img.shields.io/badge/▶️_Download_&_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
-  </a>
-  
-  <br><br>
-  
-  **Or Watch Online:**
-  
-  <a href="https://www.loom.com/share/9fc7f976bd084f57a3c9916e15ed0aa8">
-    <img src="https://img.shields.io/badge/▶️_Watch_on_Loom-5A67D8?style=for-the-badge&logo=loom&logoColor=white" alt="Watch on Loom">
-  </a>
-  
+
+**🎬 Demo Video - Real-Time Chat Application**
+
+<br>
+
+<!-- Replace the URL below with your GitHub-uploaded video URL -->
+<!-- To get the URL: Create a GitHub Issue → Drag & drop video → Copy the generated link -->
+
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE.mp4
+
+<br>
+
+**Alternative Ways to Watch:**
+
+<a href="https://www.loom.com/share/9fc7f976bd084f57a3c9916e15ed0aa8">
+  <img src="https://img.shields.io/badge/▶️_Watch_on_Loom-5A67D8?style=for-the-badge&logo=loom&logoColor=white" alt="Watch on Loom">
+</a>
+&nbsp;&nbsp;
+<a href="./demo/Demo.mp4">
+  <img src="https://img.shields.io/badge/📥_Download_Video-2ea44f?style=for-the-badge" alt="Download Video">
+</a>
+
 </div>
 
 <br>
 
 > **Demo Highlights:** User Registration & Login • Real-time Messaging • Typing Indicators • Online/Offline Status • Message Receipts • User Search • Logout Flow
 
-> 📁 **Video File:** Available in [`/demo/Demo.mp4`](./demo/Demo.mp4) folder
+---
+
+### 📝 How to Upload Video to GitHub (for embedding):
+1. Go to your repo → Issues → New Issue
+2. Drag & drop `demo/Demo.mp4` into the comment box
+3. Wait for upload → Copy the generated URL
+4. Replace `YOUR-VIDEO-ID-HERE` above with your URL
+5. Close the issue (or keep as draft)
 
 ### What's Covered in the Demo:
 1. ✅ User registration and login
